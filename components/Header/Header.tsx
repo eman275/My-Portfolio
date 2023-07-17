@@ -72,11 +72,11 @@ const Header = () => {
                 </Link>
               ))}
 
-              <div className={classes.nav__right}>
+              {/* <div className={classes.nav__right}>
                 <p className="d-flex align-items-center gap-2 mb-0">
                   <i className="ri-phone-line"></i> +2 011 526 68 891
                 </p>
-              </div>
+              </div> */}
             </div>
           </div>
 

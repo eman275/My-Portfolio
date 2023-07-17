@@ -12,7 +12,7 @@ const Hero = () => {
     const link = document.createElement("a");
     link.href = cvPDF; 
     link.target = "_blank"; 
-    link.download = "EmanM.Mostafa(front-end-developer(reactjs && Nextjs)).pdf"; 
+    link.download = "Eman.M.Mostafa(front-end-developer[reactjs && Nextjs]).pdf"; 
     link.click();
   };
   return (
