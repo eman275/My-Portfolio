@@ -56,7 +56,7 @@ const Header = () => {
         <div className={classes.nav__wrapper}>
           <div className={classes.logo}>
             <h1>
-              <span>Eman</span>M.Mostafa
+              <span>Eman.</span>M.Mostafa
             </h1>
           </div>
 
