@@ -36,13 +36,13 @@ const Contact = () => {
 
             <div className={`${classes.social__links}`}>
               <Link href="https://www.linkedin.com/in/emanaltweel/"  target="_blank">
-                <i className="ri-linkedin-line"></i>
+                <i className={`${classes.link} ri-linkedin-line`}></i>
               </Link>
               <Link href="https://github.com/eman275" target="_blank">
-                <i className="ri-github-line"></i>
+                <i className= {`${classes.link} ri-github-line`}></i>
               </Link>
               <Link href="https://twitter.com/Emaaaww" target="_blank">
-                <i className="ri-twitter-line"></i>
+                <i className=  {`${classes.link} ri-twitter-line`}></i>
               </Link>
             </div>
           </Col>
