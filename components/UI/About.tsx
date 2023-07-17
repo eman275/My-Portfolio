@@ -65,9 +65,9 @@ const About = () => {
             </div>
 
             <div className="mt-5">
-              <button className="primary__btn">
+              {/* <button className="primary__btn">
                 <Link href="#portfolio">My Portfolio</Link>
-              </button>
+              </button> */}
 
             </div>
           </Col>
